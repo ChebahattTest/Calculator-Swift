@@ -13,3 +13,6 @@ class First {
     //jfkenrfoierjlkgmerogl;remt;lgrt
     //dlwkfmewlkvmevlemvl;bv,re
 }
+
+
+var someVar = First(first: "First", question: true)
