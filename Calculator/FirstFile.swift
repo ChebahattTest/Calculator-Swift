@@ -10,5 +10,11 @@ import Foundation
 import  UIKit
 
 class First {
+    var first = "First"
+    var question = true
     
+    init(first: String,question: Bool) {
+        self.first = first
+        self.question = question
+    }
 }
