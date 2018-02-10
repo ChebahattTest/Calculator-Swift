@@ -17,3 +17,8 @@ class First {
 
 
 var someVar = First(first: "First", question: true)
+
+
+class YetOneClass {
+    
+}
