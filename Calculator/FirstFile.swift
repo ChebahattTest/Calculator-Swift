@@ -18,3 +18,6 @@ class First {
         self.question = question
     }
 }
+
+
+var someVar = First(first: "First", question: true)

@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C64D30F1202F19B3005A8D32 /* FirstFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C64D30F0202F19B2005A8D32 /* FirstFile.swift */; };
+		C64D30F5202F2345005A8D32 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C64D30F4202F2345005A8D32 /* Settings.bundle */; };
 		E42BAC161E6356FF0005C63C /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42BAC151E6356FF0005C63C /* CalculatorBrain.swift */; };
 		E4448DAF1E53281D00B45C56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4448DAE1E53281D00B45C56 /* AppDelegate.swift */; };
 		E4448DB11E53281D00B45C56 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4448DB01E53281D00B45C56 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		C64D30F0202F19B2005A8D32 /* FirstFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstFile.swift; sourceTree = "<group>"; };
+		C64D30F4202F2345005A8D32 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		E42BAC151E6356FF0005C63C /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		E4448DAB1E53281D00B45C56 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4448DAE1E53281D00B45C56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				E4448DB01E53281D00B45C56 /* ViewController.swift */,
 				E42BAC151E6356FF0005C63C /* CalculatorBrain.swift */,
 				C64D30F0202F19B2005A8D32 /* FirstFile.swift */,
+				C64D30F4202F2345005A8D32 /* Settings.bundle */,
 				E4448DB21E53281D00B45C56 /* Main.storyboard */,
 				E4448DC01E53284E00B45C56 /* Supporting Files */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C64D30F5202F2345005A8D32 /* Settings.bundle in Resources */,
 				E4448DB91E53281D00B45C56 /* LaunchScreen.storyboard in Resources */,
 				E4448DB61E53281D00B45C56 /* Assets.xcassets in Resources */,
 				E4448DB41E53281D00B45C56 /* Main.storyboard in Resources */,
